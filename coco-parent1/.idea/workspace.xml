@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="coco-web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="304f47e9-c58a-4196-b555-d19c82e7c783" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/coco-parent1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/src/main/tools/mysql-connector-java-6.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmDemo/src/main/webapp/WEB-INF/app-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coco-parent/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../coco-parent/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coco-parent/coco-manager/coco-mapper/src/main/java/com/coco/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../coco-parent/coco-manager/coco-mapper/src/main/java/com/coco/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coco-parent/coco-manager/coco-web/coco-web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coco-parent/coco-parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coco-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-common/target/coco-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-common/target/coco-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-common/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/coco-common/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-mapper/target/classes/com/coco/mapper/AddressMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-mapper/target/classes/com/coco/mapper/AddressMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-mapper/target/coco.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-mapper/target/coco.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-mapper/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-mapper/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/coco/pojo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/coco/pojo/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-pojo/target/classes/com/coco/pojo/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-pojo/target/classes/com/coco/pojo/Address.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-pojo/target/coco.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-pojo/target/coco.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-pojo/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-pojo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-service/target/coco.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-service/target/coco.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/classes/com/coco/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/classes/com/coco/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web.war" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/classes/com/coco/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/classes/com/coco/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-mapper-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-mapper-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-pojo-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-pojo-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/coco-web/WEB-INF/lib/coco-service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coco-manager/coco-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/coco-manager/coco-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCOCO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCOCO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCOCO/.idea/newCOCO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newCOCO/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/coco-common/target/" />
+    <ignored path="$PROJECT_DIR$/coco-manager/target/" />
+    <ignored path="$PROJECT_DIR$/coco-manager/coco-web/target/" />
+    <ignored path="$PROJECT_DIR$/coco-manager/coco-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/coco-manager/coco-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/coco-manager/coco-service/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1008">
+              <caret line="191" column="5" lean-forward="true" selection-start-line="191" selection-start-column="5" selection-end-line="191" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/xzy/service/imp/GuestServiceImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="696">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/xzy/service/GuestService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/imp/UserServiceImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7560">
+              <caret line="332" selection-start-line="332" selection-end-line="332" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>checkAnswer</find>
+      <find>updateByPrimaryKey</find>
+      <find>userId</find>
+      <find>token</find>
+      <find>jar</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="SCOPE" value="Production" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/GoodsPicMapper.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/ShopCarMapper.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/ShippingVo.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/OrderInfoVo.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/AddressVo.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/OrdersInfoVo.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/DateTimeUtil.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/SnowFlakeUtil.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-web/src/main/webapp/WEB-INF/app-servlet.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/FootMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/GoodsKindMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/ShopMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/UserInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/GoodsMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/GoodsPicMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/ShopCarMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/ServerResponse.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/PageInfo.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/AA.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/Page.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/Iselect.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/PageHelper.java" />
+        <option value="$PROJECT_DIR$/coco-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/OrdersService.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/OrdersInfoMapper.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/OrdersInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/OrdersMapper.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/OrdersMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/coco/pojo/Orders.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/imp/OrdersServiceImp.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/OrdersVo.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-web/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-web/src/main/resources/ApplicationContext.xml" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/util/MD5Util.java" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/Const.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-service/pom.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-web/pom.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/coco/pojo/User.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/imp/UserServiceImp.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/AddressMapper.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/AddressMapper.xml" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/UserService.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/coco/pojo/Address.java" />
+        <option value="$PROJECT_DIR$/coco-common/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/ResponseCode.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coco-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coco-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coco-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coco-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coco-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="coco-web Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="coco" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="coco" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xzy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coco-parent1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coco-parent1" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="coco-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xzy" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595167558477" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5284926" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\WorkSpaceIdea\coco-parent1\coco-manager\coco-web\src\main\resources" />
+      <recent name="F:\workspace\coco-parent\coco-manager\coco-web\src\main\resources\mappers" />
+      <recent name="F:\workspace\coco-parent\coco-common\src\main\java\com\coco\commom\vo" />
+      <recent name="F:\workspace\coco-parent\coco-common\src\main\java\com\coco\commom" />
+      <recent name="F:\workspace\coco-parent\coco-manager\coco-mapper\src\main\java\com\coco\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.coco.commom.vo" />
+      <recent name="" />
+      <recent name="com.coco.mapper" />
+      <recent name="com.xzy.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\coco-parent\coco-manager\coco-web\src\main\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="UserServiceImp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coco.service.imp.UserServiceImp" />
+      <module name="coco-service" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coco.service.imp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="coco-web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+        <artifact name="coco-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/coco_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_coco-parent" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59162" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="coco-web:war" />
+          <artifact name="coco-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.UserServiceImp" />
+      <item itemvalue="Tomcat Server.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserServiceImp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304f47e9-c58a-4196-b555-d19c82e7c783" name="Default Changelist" comment="" />
+      <created>1548612459297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548612459297</updated>
+      <workItem from="1548612462709" duration="2279000" />
+      <workItem from="1548645682648" duration="7914000" />
+      <workItem from="1548660204262" duration="3196000" />
+      <workItem from="1548690116006" duration="3997000" />
+      <workItem from="1548695340680" duration="638000" />
+      <workItem from="1548697016267" duration="263000" />
+      <workItem from="1548764270568" duration="1251000" />
+      <workItem from="1548810380048" duration="2626000" />
+      <workItem from="1548858809313" duration="631000" />
+      <workItem from="1549952770384" duration="12000" />
+      <workItem from="1549974057491" duration="1117000" />
+      <workItem from="1550019924815" duration="606000" />
+      <workItem from="1550061829491" duration="2434000" />
+      <workItem from="1550126236933" duration="1472000" />
+      <workItem from="1550319832797" duration="4777000" />
+      <workItem from="1550326479534" duration="5163000" />
+      <workItem from="1550371425548" duration="2594000" />
+      <workItem from="1550389407479" duration="26111000" />
+      <workItem from="1550453488710" duration="12129000" />
+      <workItem from="1550577240267" duration="2761000" />
+      <workItem from="1550580092876" duration="12968000" />
+      <workItem from="1550675848678" duration="7749000" />
+      <workItem from="1550711315553" duration="7158000" />
+      <workItem from="1550720190912" duration="12750000" />
+      <workItem from="1550801884610" duration="816000" />
+      <workItem from="1550805436295" duration="1641000" />
+      <workItem from="1550815601111" duration="1237000" />
+      <workItem from="1550821913355" duration="84473000" />
+      <workItem from="1551147388098" duration="7395000" />
+      <workItem from="1551169519441" duration="1131000" />
+      <workItem from="1551188706793" duration="2750000" />
+      <workItem from="1551530193308" duration="2327000" />
+      <workItem from="1552899238278" duration="355000" />
+      <workItem from="1555034991689" duration="1250000" />
+      <workItem from="1556021666535" duration="36000" />
+      <workItem from="1556021767722" duration="4000" />
+      <workItem from="1556500895621" duration="2189000" />
+      <workItem from="1558893012132" duration="3018000" />
+      <workItem from="1560315251296" duration="93000" />
+      <workItem from="1560318608934" duration="1019000" />
+      <workItem from="1561305340303" duration="4106000" />
+      <workItem from="1561538342896" duration="471000" />
+      <workItem from="1561793782339" duration="598000" />
+      <workItem from="1561911764242" duration="48000" />
+      <workItem from="1561970217290" duration="118000" />
+      <workItem from="1561972442134" duration="39000" />
+      <workItem from="1561975051860" duration="101000" />
+      <workItem from="1561977830140" duration="63000" />
+      <workItem from="1561981006481" duration="119000" />
+      <workItem from="1564474721639" duration="1280000" />
+      <workItem from="1564477219385" duration="909000" />
+      <workItem from="1564570724443" duration="740000" />
+      <workItem from="1564642734018" duration="579000" />
+      <workItem from="1564643470127" duration="650000" />
+      <workItem from="1565173719537" duration="31000" />
+      <workItem from="1565275052111" duration="7264000" />
+      <workItem from="1565400254383" duration="13364000" />
+      <workItem from="1565436205175" duration="1571000" />
+      <workItem from="1565668764230" duration="113000" />
+      <workItem from="1568177274669" duration="607000" />
+      <workItem from="1594304450623" duration="4866000" />
+      <workItem from="1595167486538" duration="86000" />
+    </task>
+    <task id="LOCAL-00001" summary="Finished Basically">
+      <created>1551170061697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551170061698</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished Basically">
+      <created>1551170488592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551170488592</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="270053000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1762481" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.12091503" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.39179105" side_tool="true" weight="0.57190084" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.17190082" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.40522876" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.60820895" weight="0.32786885" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.246281" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.022692889" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.08850227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32980332" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished Basically" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Basically" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/imp/UserServiceImp.java</url>
+          <line>256</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/UserController.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/coco-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/OrdersService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/AddressMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/AddressVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/OrdersVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/vo/OrdersInfoVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/resources/coco.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="65" column="21" selection-start-line="57" selection-start-column="12" selection-end-line="65" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="289" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="54" lean-forward="true" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/xzy/coco-common/1.0-SNAPSHOT/coco-common-1.0-SNAPSHOT.jar!/com/coco/commom/TokenCache.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/xzy/coco-common/1.0-SNAPSHOT/coco-common-1.0-SNAPSHOT.jar!/com/coco/commom/ServerResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/resources/ApplicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="33" selection-end-line="92" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/webapp/WEB-INF/app-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="51" column="23" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/ServerResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/ResponseCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-common/src/main/java/com/coco/commom/TokenCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/coco/mapper/UserInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="32" selection-start-line="32" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/imp/OrdersServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/xzy/mapper/LogsMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-mapper/src/main/java/com/xzy/mapper/LogsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/xzy/pojo/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/xzy/service/imp/GuestServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/xzy/pojo/Logs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/coco/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-pojo/src/main/java/com/coco/pojo/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/ShopCarController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/xzy/service/GuestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/xzy/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-service/src/main/java/com/coco/service/imp/UserServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco-manager/coco-web/src/main/java/com/coco/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="191" column="5" lean-forward="true" selection-start-line="191" selection-start-column="5" selection-end-line="191" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>coco-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5284926" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5284926" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>coco-pojo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5284926" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib:3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5284926" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
